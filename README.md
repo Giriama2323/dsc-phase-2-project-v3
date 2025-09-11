@@ -85,11 +85,3 @@ Based on analysis:
 
 ---
 
-## 🚀 Next Steps  
-- Expand analysis with Rotten Tomatoes & TMDB datasets.  
-- Build predictive models (e.g., Random Forest, Gradient Boosting) for profitability.  
-- Scrape recent box office data for fresher insights.  
-
----
-
-👩‍💻 *Developed as part of an Exploratory Data Analysis (EDA) project.*  
